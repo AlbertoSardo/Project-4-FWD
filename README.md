@@ -1,4 +1,4 @@
-# Project 4 - Foundation Framework
+# Project 4 - Foundation Framework Alberto Sardo
 
 ## Overview
 This project uses Foundation to layout my resume content, per the requirements of Project 4 in Fundamentals of Web Development. 
